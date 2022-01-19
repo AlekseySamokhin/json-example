@@ -1,1 +1,1 @@
-# json-exmaple
+# json-example

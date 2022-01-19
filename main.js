@@ -3,7 +3,7 @@ var header = document.querySelector('header');
 var section = document.querySelector('section');
 
 // сохранение url адреса JSON
-var requestURL = 'https://raw.githubusercontent.com/AlekseySamokhin/json/main/superheroes.json';
+var requestURL = 'var requestURL = 'https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json';';
 
 // новый экземляр объекта запроса из конструктора
 var request = new XMLHttpRequest();
